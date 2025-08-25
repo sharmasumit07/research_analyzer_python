@@ -1,0 +1,7 @@
+gradio
+requests
+PyMuPDF
+python-dotenv
+opencv-python
+numpy
+pillow
